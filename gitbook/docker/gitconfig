@@ -1,0 +1,10 @@
+[core]
+    editor = vim
+    compression = 0
+    quotepath = false
+[user]
+    name = Ralph Wang
+    email = ralph@status.com.tw
+[color]
+    ui = auto
+
