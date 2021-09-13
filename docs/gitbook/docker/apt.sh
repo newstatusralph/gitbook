@@ -11,4 +11,5 @@ npm install -g gitbook-cli
 # ./serve.sh
 cp -a vimrc ~/.vimrc
 cp -a bash_aliases ~/.bash_aliases
-source ~/.basrc
+cp -a gitconfig ~/.gitconfig
+source ~/.bashrc
